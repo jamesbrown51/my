@@ -1,4 +1,4 @@
-<h3 align="left">I'm a SDET, from Kentucky-USA</h3>
+<h3 align="left">I'm a Beginner QA Tester, from Kentucky-USA</h3>
 
 ###
 
