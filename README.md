@@ -1,4 +1,4 @@
-<h3 align="left">I'm a SDET, from Turkiye</h3>
+<h3 align="left">I'm a SDET, from Kentucky-USA</h3>
 
 ###
 
